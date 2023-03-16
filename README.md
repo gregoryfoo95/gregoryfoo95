@@ -1,6 +1,4 @@
-### Hi there 👋
-⚡ Fun fact: ...
--->
+### Brief Information about me! 👋
 
 - 🔭 I’m currently working on my programming skills and full-stack development concepts with General Assembly!
 - 🌱 I’m currently learning Node.js with React and dabbling with Machine Learning/AI on the side!
