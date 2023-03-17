@@ -101,6 +101,9 @@
 
 <br/>  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregoryfoo95&layout=compact)](https://github.com/gregoryfoo95/github-readme-stats)
+
+<br/> 
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gregoryfoo95&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
