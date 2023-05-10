@@ -107,7 +107,7 @@
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregoryfoo95&hide_progress=true)](https://github.com/gregoryfoo95/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregoryfoo95&size_weight=0.5&count_weight=0.5)](https://github.com/gregoryfoo95/github-readme-stats)
 
 </div>
 
