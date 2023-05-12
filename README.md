@@ -6,10 +6,10 @@
 ### <div align="center">I'm Greg! A full-stack software developer in RAiD, RSAF.</div>  
   
 
-- 🔭 I’m currently working on my programming skills and full-stack development concepts with General Assembly!  
+- 🔭 I've recently completed a bootcamp with General Assembly on Full Stack Web Dev!  
   
 
-- 🌱 I’m currently learning Node.js with React and dabbling with Machine Learning/AI on the side!  
+- 🌱 I’m currently working with Typescript and React while dabbling with Machine Learning/AI on the side!  
   
 
 - 📫 How to reach me: Through email @ gregoryfoo@hotmail.com  
@@ -107,7 +107,7 @@
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregoryfoo95&size_weight=0.5&count_weight=0.5)](https://github.com/gregoryfoo95/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregoryfoo95&layout=compact)](https://github.com/gregoryfoo95/github-readme-stats)
 
 </div>
 
