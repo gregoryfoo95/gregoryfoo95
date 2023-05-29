@@ -103,16 +103,6 @@
 
 <br/>  
 
-## Most-used Languages
-
-<div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregoryfoo95&layout=donut)](https://github.com/gregoryfoo95/github-readme-stats)
-
-</div>
-
-<br/> 
-
 ## Github Stats  
   
 <div align="center"><img src="https://api.githubtrends.io/user/svg/gregoryfoo95/langs?time_range=one_year&use_percent=True&include_private=True&theme=dark" align="center" /></div>  
@@ -127,4 +117,3 @@
 
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
