@@ -125,7 +125,7 @@
 
 <br />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gregoryfoo95?theme=dark)](https://git.io/streak-stats)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/greogryfoo95/langs)](https://githubtrends.io)
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
