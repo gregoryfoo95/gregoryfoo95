@@ -125,7 +125,7 @@
 
 <br />
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/greogryfoo95/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/gregoryfoo95/langs?time_range=one_year&use_percent=True&include_private=True&theme=dark)](https://githubtrends.io)
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
