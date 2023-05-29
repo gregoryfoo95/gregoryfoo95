@@ -115,7 +115,7 @@
 
 ## Github Stats  
   
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gregoryfoo95&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
+<div align="center"><img src="https://api.githubtrends.io/user/svg/gregoryfoo95/langs?time_range=one_year&use_percent=True&include_private=True&theme=dark" align="center" /></div>  
 
 <br/>  
 
@@ -125,7 +125,6 @@
 
 <br />
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/gregoryfoo95/langs?time_range=one_year&use_percent=True&include_private=True&theme=dark)](https://githubtrends.io)
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
