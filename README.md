@@ -8,16 +8,14 @@
 
 - 🔭 I've recently completed a bootcamp with General Assembly on Full Stack Web Dev!  
   
-
-- 🌱 I’m currently working with Typescript and React while dabbling with Machine Learning/AI on the side!  
+- 🌱 Personal: I’m currently working with Typescript and React while dabbling with Machine Learning/AI on the side!  
   
+- 📝 Work: I'm currently working with Java and LuciadLightSpeed!
 
 - 📫 How to reach me: Through email @ gregoryfoo@hotmail.com  
   
-
 - ⚡ Fun fact: Chelsea Fan  
   
-
 <br/>  
 
 
