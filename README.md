@@ -4,13 +4,9 @@
   
 
 ### <div align="center">I'm Greg! A full-stack software developer in RAiD, RSAF.</div>  
+    
   
-
-- 🔭 I've recently completed a bootcamp with General Assembly on Full Stack Web Dev!  
-  
-- 🌱 Personal: I’m currently working with Typescript and React while dabbling with Machine Learning/AI on the side!  
-  
-- 📝 Work: I'm currently working with Java and LuciadLightSpeed!
+- 📝 Work: I'm currently working with Java and LuciadLightSpeed, and dabbling with projects in the field of LLM!
 
 - 📫 How to reach me: Through email @ gregoryfoo@hotmail.com  
   
