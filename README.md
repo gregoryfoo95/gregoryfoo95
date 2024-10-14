@@ -6,7 +6,7 @@
 ### <div align="center">I'm Greg! A full-stack software developer in RAiD, RSAF.</div>  
     
   
-- 📝 Work: I'm currently working with Java and LuciadLightSpeed, and dabbling with projects in the field of LLM!
+- 📝 Work: I'm currently working with Java and LuciadLightSpeed, and dabbling with projects in Golang and C++!
 
 - 📫 How to reach me: Through email @ gregoryfoo@hotmail.com  
   
